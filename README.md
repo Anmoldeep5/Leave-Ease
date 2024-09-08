@@ -1,2 +1,2 @@
 # Leave-Ease
-A comprehensive leave management system designed to simplify and streamline student leave requests at BFGI
+BFGI Leave-Ease: A comprehensive leave management system designed to simplify and streamline student leave requests at BFGI. The platform features a responsive front-end developed using HTML, CSS, Tailwind, and JavaScript for an intuitive user experience. The back-end is powered by Node.js and Express to handle routing and server-side operations, while MySQL manages the database for storing and tracking leave requests. The project was carefully prototyped using Whimsical to ensure smooth workflows and design planning.
